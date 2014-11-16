@@ -14,8 +14,8 @@
 
 	body
 	{
-		background-image:			url('images/overlay.png'),		url('images/bg.jpg');
-		background-repeat:			repeat,							no-repeat;
+		background-image:			url('images/overlay.png'),		url('https://38.media.tumblr.com/4b61b67ffe6f4fe2818d2aef910f993b/tumblr_mq7ta1VvAs1s914fdo1_1280.jpg');
+		background-repeat:			repeat,							no-repeat;3d?dpr=2&fit=crop&fm=jpg&q=75&w=1050
 		background-size:			auto,							100% 100%;
 	}
 
@@ -35,7 +35,7 @@
 		
 	body,input,textarea,select
 	{
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Arial', Helvetica, sans-serif;
 		font-weight: 300;
 		color: #777777;
 	}
